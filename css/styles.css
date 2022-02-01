@@ -48,7 +48,7 @@ h2 {
 
 h3 {
   font-size: 3rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 p {
   margin-top: 0;
@@ -62,6 +62,7 @@ p {
   h1 {
     font-size: 8rem;
   }
+
   h2 {
     font-size: 4rem;
   }
@@ -600,6 +601,7 @@ a {
 
 .block__header {
   text-align: center;
+  margin-bottom: 4rem;
 }
 
 .block__heading {
@@ -612,8 +614,8 @@ a {
 }
 
 .block--dark .h1,
-h2,
-h3 {
+.h2,
+.h3 {
   color: #fff;
 }
 
